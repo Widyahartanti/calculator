@@ -1,2 +1,2 @@
-# calculator
-menyimpan calculator
+# Peluang kerja
+menyimpan gmail
